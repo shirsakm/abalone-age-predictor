@@ -61,13 +61,13 @@ pip install scikit-learn pandas numpy seaborn
 1. Clone the repository.
 
    ```sh
-   git clone https://github.com/yourusername/abalone-regression.git
+   git clone https://github.com/shirsakm/abalone-age-predictor.git
    ```
 
 2. Navigate to the project directory.
 
    ```sh
-   cd abalone-regression
+   cd abalone-age-predictor
    ```
 
 3. Open the Jupyter notebook:
